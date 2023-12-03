@@ -1,10 +1,14 @@
 ### Hi there 👋, my name is Abdur subhan rifat
 #### Frontend Designer
 ![Frontend Designer](https://media.istockphoto.com/id/1089489252/photo/freelance-programmer-working-on-computer-from-home.jpg?s=1024x1024&w=is&k=20&c=136R1zhevO2uUnt92m7W0QAjMIQ2PGsR0p2JXwAjYGo=)
-
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  
 Skills: HTML / CSS / JAVASCRIPT / BOOSTRAP / TAILIND CSS
 
 - 🔭 I’m currently working on CSS 
